@@ -1,0 +1,12 @@
+{
+  "name": "jky-format-date",
+  "version": "1.0.5",
+  "description": "格式日期",
+  "main": "index.js",
+  "keywords": ["日期","时间","格式化"],
+  "scripts": {
+    "test": ""
+  },
+  "author": "jky",
+  "license": "ISC"
+}
